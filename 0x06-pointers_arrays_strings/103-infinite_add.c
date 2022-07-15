@@ -3,7 +3,6 @@
 
 /**
  * infinite_add - adds two numbers
- * @author: muhabeid
  * @n1: first number
  * @n2: second number
  * @r: buffer for result
